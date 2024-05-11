@@ -1,0 +1,20 @@
+.pass-gene-bg {
+	color: white;
+	background: radial-gradient(circle at 50.1% 81.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 7.9%, rgb(255 213 173) 14.9%, rgb(255, 163, 77) 10.4%, rgb(19, 30, 37) 25.5%, rgb(19, 30, 37) 20%);
+	box-shadow: 0 0 0 10px rgb(105, 105, 105), 0 0 0 20px rgb(155, 155, 155), 0 0 0 30px rgb(183, 183, 183), 0 0 0 40px rgb(207, 207, 207);
+}
+.success {
+	background: rgb(190, 255, 190);
+	padding: 10px;
+	color: black;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.failed {
+	background: rgb(255, 190, 190);
+	padding: 10px;
+	color: black;
+	border-radius: 10px;
+	font-weight: bold;
+}
